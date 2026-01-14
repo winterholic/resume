@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- background -->
+  <rect width="64" height="64" rx="12" fill="#1F2937"></rect>
+
+  <!-- document -->
+  <rect x="18" y="14" width="28" height="36" rx="4" fill="none" stroke="#E5E7EB" stroke-width="3"></rect>
+
+  <!-- document lines -->
+  <line x1="24" y1="26" x2="40" y2="26" stroke="#E5E7EB" stroke-width="3" stroke-linecap="round"></line>
+  <line x1="24" y1="34" x2="40" y2="34" stroke="#E5E7EB" stroke-width="3" stroke-linecap="round"></line>
+
+  <!-- check mark -->
+  </svg>
